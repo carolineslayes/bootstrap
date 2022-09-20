@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("https://cdn.discordapp.com/attachments/1013811579285942304/1021921642949132328/IMG_2632.jpg");
+    background-size:contain;
+    color: red;
+    border-style:groove;
+    text-align: center;
+}
+p {
+    color: red;
+}
+a {
+    color: red;
+}
+h3 {
+    color: red;
+}
