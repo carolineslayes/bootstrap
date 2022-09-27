@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("https://cdn.discordapp.com/attachments/1013811579285942304/1021921642949132328/IMG_2632.jpg");
+    background-image: url("pic\ of\ me.jpeg");
     background-size:contain;
     color: red;
     border-style:groove;
@@ -16,4 +16,8 @@ h3 {
 }
 .table {
     color:red;
+}
+.navnav {
+    background-color:#FED3D3;
+    color:darkgray;
 }
